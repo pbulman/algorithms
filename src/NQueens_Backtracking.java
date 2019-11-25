@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Homework8 {
+public class NQueens_Backtracking {
 
     static class QueensProblem {
         int[] cols;
