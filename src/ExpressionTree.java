@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class ExpressionTreeHW7 {
+public class ExpressionTree {
 
 	static class TreeNode {
 		char label;
