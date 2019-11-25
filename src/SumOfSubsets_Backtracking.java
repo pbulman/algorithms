@@ -1,6 +1,4 @@
-package test;
-
-public class Homework8_2 {
+public class SumOfSubsets_Backtracking {
 
     static class SumOfSubsetsProblem {
         int weights[];
