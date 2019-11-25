@@ -1,10 +1,4 @@
-package test;
-/*
-NOTE: Maximum profit is calculated correctly, although the proper set of items to reach the max profit does not print correctly.
-      Since the max profit is 55 in this case, it can be deduced that the optimal set of items are items 1 & 3.
-
- */
-public class Homework8_3 {
+public class Knapsack_Backtracking {
     static class KnapsackProblem {
         int[] profits;
         int[] weights;
